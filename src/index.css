@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+      margin: auto;
+      width: 50%;
+      padding: 20px 10px 0px 250px;
+}
+
+.page--footer{
+  align-items: center;
+  background-color: #D5D4D8;
+  height: 64px;
+  width: 317px;
+  left: 116px;
+  top: 760px;
+}
+
+.page--footer > img{
+  margin:15px;
+  padding: 3px 5px 5px 17px;
+}
+.content--body{
+    height: 340px;
+    width: 317px;
+    left: 116px;
+    background: #F5F5F5;
+}
+.profile--name{
+  padding: 20px 68.94px 6.9px 70px; 
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.profile--designation{
+  color: #F47D27;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding:1.9px;
+}
+
+.profile--website{
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding:2px 0px px 0px;
+}
+.button--div{
+  margin: 5px 5px 5px 35px;
+}
+.button--email{
+    height: 34px;
+    width: 115px;
+    left: 151px;
+    top: 469px;
+    border-radius: 6px;
+    margin:0px 2px 2px 5px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    padding: 3px;
+}
+
+.email--logo{
+  position: relative;
+  right:25px;
+  bottom:10px;
+ 
+}
+.email--text{
+    position: relative;
+    left:15px;
+    top:5px;
+    font-size: 14px;
+    letter-spacing: 0em;
+    font-family: Inter;
+    
+}
+
+.button--linkedin{
+      height: 34px;
+        width: 115px;
+        left: 151px;
+        top: 469px;
+        border-radius: 6px;
+        margin: 0px 2px 2px 5px;
+        background: #297FE5;
+        border: 1px solid #D1D5DB;
+        box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+        border-radius: 6px;
+        padding: 3px;
+}
+
+.linked--text{
+        position: relative;
+        left: 15px;
+        top: 5px;
+        font-size: 14px;
+        letter-spacing: 0em;
+        font-family: Inter;
+}
+.linked--logo{
+      position: relative;
+      right: 25px;
+      bottom: 12px;
+}
+.space{
+  padding: 5px 5px 5px 5px;
+}
+.about--interest{
+  padding: 23px 20px 50px 38px;
+}
+
+.about--interest > h1{
+  font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.about--interest > p {
+  font-family: Inter;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+}
